@@ -13,7 +13,7 @@ numeros$.pipe(
     }),
     map( val => val * 10 ),
     tap({
-        next: valor => console.log('después', value),
+        next: value => console.log('después', value),
         complete: () => console.log('Se terminó todo')
     })
 )

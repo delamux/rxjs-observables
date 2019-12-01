@@ -29,6 +29,7 @@ button, video{
 
 img {
     border-radius: 5px;
+    max-width: 200px;
 }
 
 ol {

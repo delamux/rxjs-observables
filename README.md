@@ -22,3 +22,8 @@ By default, the configured port is ```8081```, you can change if you want on the
 Change the port, save changes and run ```npm start``` again.
 
 * All RxJS operators is inside /src folder, if you want test one of them, you can copy de file and paste in the ```index.ts``` file, The mosty operators it's for test on the web browser console, others are visual.
+
+## tools
+
+* Great tool for TYPE response objects [https://app.quicktype.io/][quicktype.io]
+
