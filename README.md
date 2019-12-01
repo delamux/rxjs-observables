@@ -1,6 +1,6 @@
 # Start project- RXJS
 
-* The first that you need to run in your command line is:
+* The first that you need is run in your command line:
 
 ```
 npm install
@@ -10,7 +10,7 @@ npm install
 ```
 npm start
 ```
-this command should be run in the same directory where is the file ```package.json```
+this command should be run in the same directory where ```package.json``` file it is.
 
 ## Change port
 By default, the configured port is ```8081```, you can change if you want on the ```package.json``` >> scripts.
